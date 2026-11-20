@@ -1,4 +1,4 @@
-# ENSO, IOD and Bangladesh floods
+# 2. ENSO, IOD and Bangladesh floods
 
 **Two Oceans, One Delta: Interactions between ENSO and the Indian Ocean Dipole and Their Impact on Bangladesh Floods**
 
@@ -6,8 +6,8 @@ Two hands-on sessions. Each notebook is **run and interpret**: run the cells in 
 
 | Session | Notebook | Open |
 |---|---|---|
-| **Two Oceans** | `Session1_ENSO_IOD_interaction.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/main/ENSO%2C%20IOD%20and%20Bangladesh%20floods/Session1_ENSO_IOD_interaction.ipynb) |
-| **One Delta** | `Session2_ENSO_IOD_Bangladesh_floods.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/main/ENSO%2C%20IOD%20and%20Bangladesh%20floods/Session2_ENSO_IOD_Bangladesh_floods.ipynb) |
+| **Two Oceans** | `Session1_ENSO_IOD_interaction.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/main/2.%20ENSO%2C%20IOD%20and%20Bangladesh%20floods/Session1_ENSO_IOD_interaction.ipynb) |
+| **One Delta** | `Session2_ENSO_IOD_Bangladesh_floods.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/main/2.%20ENSO%2C%20IOD%20and%20Bangladesh%20floods/Session2_ENSO_IOD_Bangladesh_floods.ipynb) |
 
 **Session 1 · Two Oceans.** Participants build the Niño 3.4 and Dipole Mode indices from NOAA's Extended Reconstructed Sea Surface Temperature dataset (ERSSTv5, 1979–2026) and explore how El Niño–Southern Oscillation and the Indian Ocean Dipole interact across the seasons. They then use machine learning to let the data identify recurring Indo-Pacific ocean patterns on its own, and compare these with the conventional ENSO and IOD classifications.
 
