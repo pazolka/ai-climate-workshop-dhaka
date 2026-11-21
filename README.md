@@ -20,7 +20,7 @@ Hands-on Jupyter notebooks on Machine Learning and environmental applications in
 - **Run the cells in order with `Shift + Enter`** and look at the figures; the sessions are written to be run and interpreted, not coded from scratch. Cells marked 🔧 **Try this** contain settings you can change and run again.
 - **In Colab:** after opening a notebook, choose **File → Save a copy in Drive** so you can make changes. The first code cell clones this repository (and installs any extra packages, such as `ruptures`, `xgboost` or `rioxarray`), which takes about a minute.
 - **Locally:** clone or download this repository and open the notebooks from their folders. Install Python 3 with `numpy pandas matplotlib scipy scikit-learn jupyter`; the ENSO sessions also use `shap`, the groundwater modelling notebook uses `tensorflow`, `keras` and `rioxarray`, and the water-quality exercises use `xgboost`.
-- **Session 4** loads one shared groundwater_workshop.zip from its data folder or the workshop repository. In Colab choose **Runtime → Run all**.
+- **Session 4** loads small exercise-specific ZIPs from its data folder or the workshop repository. In Colab choose **Runtime → Run all**.
 - **Data** for the other sessions are read from the shared `data/` folder with relative paths. Each folder README or notebook lists the exact files and their sources.
 
 ## Data sources
