@@ -6,7 +6,9 @@
 
 Imagine it is January 2013. How deep will the water table at Haluaghat be over the next six months? Use Darts to run Chronos-2 Small, a pretrained forecasting model, on monthly well readings. Compare its forecasts with the same month last year, then test whether filling gaps, adding satellite observations, or using a longer well record improves accuracy.
 
-[Groundwater_Forecasting_Workshop.ipynb](Groundwater_Forecasting_Workshop.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/session-4-groundwater-forecasting/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Workshop.ipynb)
+| Session | Notebook | Open |
+|---|---|---|
+| **Advanced Deep Learning for Time Series Forecasting of Groundwater Levels** | [Groundwater_Forecasting_Workshop.ipynb](Groundwater_Forecasting_Workshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/session-4-groundwater-forecasting/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Workshop.ipynb) |
 
 ## How to run
 
