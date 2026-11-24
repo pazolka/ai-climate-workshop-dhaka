@@ -6,15 +6,11 @@
 
 Imagine it is January 2013. How deep will the water table at Haluaghat be over the next six months? Use Darts to run Chronos-2 Small, a pretrained forecasting model, on monthly well readings. Compare its forecasts with the same month last year, then test whether filling gaps, adding satellite observations, or using a longer well record improves accuracy.
 
-| Version | Notebook | Open |
-|---|---|---|
-| **Live workshop** · exercises and expandable discussion notes | [Groundwater_Forecasting_Workshop.ipynb](Groundwater_Forecasting_Workshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/c3728c1f2c6a85f07d9edd04dbeac4395339f4d4/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Workshop.ipynb) |
-| Student exercises | [Groundwater_Forecasting_Student.ipynb](Groundwater_Forecasting_Student.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/c3728c1f2c6a85f07d9edd04dbeac4395339f4d4/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Student.ipynb) |
-| Instructor notes | [Groundwater_Forecasting.ipynb](Groundwater_Forecasting.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/c3728c1f2c6a85f07d9edd04dbeac4395339f4d4/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting.ipynb) |
+[Groundwater_Forecasting_Workshop.ipynb](Groundwater_Forecasting_Workshop.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/c3728c1f2c6a85f07d9edd04dbeac4395339f4d4/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Workshop.ipynb)
 
 ## How to run
 
-**In Colab**, open the **Live workshop** notebook and choose **File → Save a copy in Drive**. Keep the default CPU runtime. Run the cells in order with **Shift + Enter** and pause at the questions before revealing the observations. The setup cell installs the packages, and the pretrained model downloads on first use. Each notebook includes the small data files it needs.
+**In Colab**, open the **Live workshop** notebook and choose **File → Save a copy in Drive**. Keep the default CPU runtime. Run the cells in order with **Shift + Enter** and pause at the questions before revealing the observations. The setup cell installs the packages, and the pretrained model downloads on first use. The notebook includes the small data files it needs.
 
 **On your own computer**, open the notebook in Jupyter with a Python kernel and run the same cells in order. The first run needs internet access for the packages and model weights.
 
