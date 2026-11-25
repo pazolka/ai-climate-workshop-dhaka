@@ -8,7 +8,7 @@ Imagine it is January 2013. How deep will the water table at Haluaghat be over t
 
 | Session | Notebook | Open |
 |---|---|---|
-| **Advanced Deep Learning for Time Series Forecasting of Groundwater Levels** | [Groundwater_Forecasting_Workshop.ipynb](Groundwater_Forecasting_Workshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/session-4-groundwater-forecasting/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Workshop.ipynb) |
+| **Advanced Deep Learning for Time Series Forecasting of Groundwater Levels** | [Groundwater_Forecasting_Workshop.ipynb](Groundwater_Forecasting_Workshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pazolka/ai-climate-workshop-dhaka/blob/main/4.%20Forecasting%20groundwater%20levels/Groundwater_Forecasting_Workshop.ipynb) |
 
 ## How to run
 
