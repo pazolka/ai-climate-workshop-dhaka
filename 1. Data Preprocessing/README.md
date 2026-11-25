@@ -2,6 +2,8 @@
 
 **From raw observations to model-ready data**
 
+**Instructor: Anna Pazola**
+
 Machine Learning models are only as good as the data they are trained on. This folder works through three typical data-curation tasks: detecting outliers, filling gaps, and aligning and validating datasets. It relies on example data from the Bangladesh Water Development Board - BWDB (groundwater level) and Bangladesh Meteorological Department - BMD (precipitation) that appear throughout the workshop.
 
 Each notebook is **run and interpret**: run the cells in order with **Shift + Enter**, look at the figures, and discuss the questions. No coding experience is needed. Cells marked 🔧 **Try this** contain settings you can change and run again.

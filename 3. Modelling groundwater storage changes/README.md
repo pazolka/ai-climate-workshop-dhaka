@@ -2,6 +2,8 @@
 
 **Mapping groundwater storage anomalies with convolutional neural networks**
 
+**Instructor: Anna Pazola**
+
 Bangladesh has one of the most extensive groundwater monitoring networks in the world. This folder demonstrates a grid-to-grid deep-learning workflow: predict monthly groundwater storage anomaly (GWSA) maps from climate and satellite covariates, first with a 2D U-Net that treats each month independently, then with a 3D U-Net that sees a short sequence of months.
 
 The notebook is **run and interpret**: run the cells in order with **Shift + Enter**, look at the maps and training curves, and discuss the evaluation with your neighbour. Cells marked 🔧 **Try this** contain settings you can change and run again.
