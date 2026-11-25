@@ -2,6 +2,8 @@
 
 **Two Oceans, One Delta: Interactions between ENSO and the Indian Ocean Dipole and Their Impact on Bangladesh Floods**
 
+**Instructor: Dr. Yusuf Aydogdu**
+
 Two hands-on sessions. Each notebook is **run and interpret**: run the cells in order with **Shift + Enter**, look at the figures, and discuss the *What to look for* questions with your neighbour. No coding experience is needed. Cells marked 🔧 **Try this** have settings you can change and run again.
 
 | Session | Notebook | Open |
